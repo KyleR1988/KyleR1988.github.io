@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## KYLE RUSSELL ![Image](src)
 
-You can use the [editor on GitHub](https://github.com/KyleR1988/KyleR1988.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website is all about me. A place where any potential employers can see my personal CV with all my previous work experience and education to date.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I'm employed as the Sales and Operations manger at a communications company. I'm also a part-time student at CTI, Claremont, where I'm studying a Higher Certificate in Software Development, specializing in C# and PHP.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Places of Employemnet with references
 ```markdown
-Syntax highlighted code block
+- **Emcom Communications Cape (Pty) Ltd**
+  Feb 2011 - Still employed
+  Colleen Vermeulen - 021 511 4363
+  
+- **Spintelligent**
+  Nov 2010 - Jan 2011
+  No reference unfortunately
+  
+- **Long Beach Pets**
+  Feb 2010 - Oct 2010
+  Gene van der Merwe - 021 785 5452
+  
+- **Thirst Bar Services**
+  Mar 2008 - Jan 2010
+  Clyde Ackerman - 0861 -844778
+  
+- **Cape to Cuba**
+  Jun 2007 - Jan 2008
+  No referance unfortunately
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Long Beach Pets**
+  Dec 2004 - Feb 2007
+  Gene van der Merwe - 021 785 5452
 ```
+### Education
+```markdown
+- **CTI Claremont**
+  Higher Certificate in Software Development
+  Jun 2015 - Feb 2018
+  
+- **Varsity College**
+  BCompt - Accounting Science
+  Jan 2008 - Dec 2009
+  
+- **Fish Hoek Senior High School**
+  Matric 
+  2006
+```
+### More Info
+[LinkedIn](https://www.facebook.com/1988.kyle.russell)
+[GitHub](https://github.com/KyleR1988)
+[Stack Overflow](https://stackoverflow.com/users/9166718/kyle-russell)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KyleR1988/KyleR1988.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for taking the time to view my CV, if you'd like to know anymore, please feel free to call me on _0833240528_ or email me at **kyle.emcom@gmail.com**
