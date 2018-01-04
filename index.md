@@ -1,4 +1,4 @@
-## KYLE RUSSELL ![Image](src)
+## KYLE RUSSELL
 
 This website is all about me. A place where any potential employers can see my personal CV with all my previous work experience and education to date.
 
@@ -45,7 +45,7 @@ Currently I'm employed as the Sales and Operations manger at a communications co
   2006
 ```
 ### More Info
-[LinkedIn](https://www.facebook.com/1988.kyle.russell)
+[LinkedIn](https://www.linkedin.com/in/kyle-russell-22534480/)
 [GitHub](https://github.com/KyleR1988)
 [Stack Overflow](https://stackoverflow.com/users/9166718/kyle-russell)
 
